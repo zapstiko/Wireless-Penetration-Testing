@@ -1,7 +1,5 @@
 # Wireless (Wi-Fi) Penetration Testing — Full Procedures
 
-> **Source of Truth:** Wireless (WiFi) Penetration Testing\_Checklist v1.0.xlsx  
-> **Scope:** Every checklist item is covered in this document.  
 > **Target Platforms:** macOS (with compatible USB Wi-Fi adapter) & Kali Linux  
 > **Legal Warning:** All testing must be performed only on networks you are explicitly authorized to test. Unauthorized wireless testing is a criminal offence.
 
