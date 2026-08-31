@@ -3816,5 +3816,4 @@ aircrack-ng -b <AP_MAC> *.cap
 ---
 
 *Document Version: 1.0*  
-*Generated from: Wireless (WiFi) Penetration Testing_Checklist v1.0.xlsx*  
 *Classification: RESTRICTED — For authorized security testing use only*
